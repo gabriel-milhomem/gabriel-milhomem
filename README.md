@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Me chamo Gabriel Milhomem! :stars:</h1>
+<h1 align="center">Oi, Eu sou o Gabriel Milhomem! :stars:</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-milhomem-cunha/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriell.mil@gmail.com)
@@ -8,7 +8,7 @@
 
 ## Sobre Mim :wave:
 
-Ola! :smile: Sou o Gabriel, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. 
+Olá! :smile Meu nome é Gabriel, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. 
 
 No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dias essa área incrível e cheia de possibilidades. Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page.respondeai.com.br/bootcamp) e estou interessado cada vez mais em continuar estudando desenvolvimento WEB e MOBILE com ReactJS, React Native e NodeJS em projetos full-stack que compartilharei aqui.
 
