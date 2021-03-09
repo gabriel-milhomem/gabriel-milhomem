@@ -49,18 +49,9 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Estatísticas :rocket:
-<style> 
-   img[src*='#left'] {
-        float: left;
-   }
 
-   img[src*='#right'] {
-        float: right;
-   } 
-</style>
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues#left)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact)](https://github.com/gabriel-milhomem/github-readme-stats#right)
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
 
 <hr />
 
