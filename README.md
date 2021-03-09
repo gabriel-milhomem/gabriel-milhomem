@@ -8,9 +8,9 @@
 
 ## Sobre Mim :wave:
 
-Ola! :smile: Eu me chamo Gabriel Milhomem, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dias essa área incrível e cheia de possibilidades.
+Ola! :smile: Eu me chamo Gabriel Milhomem, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. 
 
-Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page.respondeai.com.br/bootcamp) e estou interessado cada vez mais em continuar estudando desenvolvimento WEB e MOBILE com ReactJS, React Native e NodeJS em projetos full-stack que compartilharei aqui.
+No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dias essa área incrível e cheia de possibilidades. Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page.respondeai.com.br/bootcamp) e estou interessado cada vez mais em continuar estudando desenvolvimento WEB e MOBILE com ReactJS, React Native e NodeJS em projetos full-stack que compartilharei aqui.
 
 ## Tecnologias que estou estudando :books:
 
@@ -50,8 +50,10 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 
 ## Estatísticas :rocket:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
+</div>
 
 <hr />
 
