@@ -50,8 +50,8 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 
 ## Estatísticas :rocket:
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
 
 <hr />
 
