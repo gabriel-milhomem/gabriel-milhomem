@@ -6,8 +6,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-milhomem)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562984224182&text=Olá,%20meu%20amigo!)
 
-<br />
-
 ## Sobre Mim :wave:
 
 Ola! :smile: Eu me chamo Gabriel Milhomem, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dias essa área incrível e cheia de possibilidades.
@@ -52,7 +50,7 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 
 ## Estatísticas :rocket:
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact)](https://github.com/gabriel-milhomem/github-readme-stats)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact)](https://github.com/gabriel-milhomem/github-readme-stats)
 
 <hr />
 
