@@ -21,7 +21,7 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
@@ -49,13 +49,15 @@ Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Estatísticas :rocket:
-img[src*='#left'] {
-    float: left;
-}
+<style> 
+   img[src*='#left'] {
+        float: left;
+   }
 
-img[src*='#right'] {
-    float: right;
-}
+   img[src*='#right'] {
+        float: right;
+   } 
+</style>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues#left)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact)](https://github.com/gabriel-milhomem/github-readme-stats#right)
