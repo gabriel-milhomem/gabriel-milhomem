@@ -50,11 +50,5 @@ No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dia
 
 ## Estatísticas :rocket:
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
-</div>
-
-<hr />
-
-:star: De [@GabrielMilhomem](https://github.com/gabriel-milhomem)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
