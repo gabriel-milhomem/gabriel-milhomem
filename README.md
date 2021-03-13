@@ -8,9 +8,12 @@
 
 ## Sobre Mim :wave:
 
-Olá! :smile: Meu nome é Gabriel, tenho 20 anos, sou apaixonado por tecnologia e tenho o sonho de, com ela, conseguir impactar o máximo de pessoas que eu conseguir, por isso, aos 17 anos, fui em busca de iniciar minha carreira no mundo da tecnologia ao ingressar em Engenharia de Computação, pela Unicamp em Campinas - SP. 
+Olá! Meu nome é Gabriel, tenho 20 anos e faço Engenharia de Computação pela Unicamp. Meu objetivo é impactar a vida das pessoas positivamente, por meio de linhas de código.
 
-No ano passado, eu conheci o desenvolvimento WEB e até hoje estudo todos os dias essa área incrível e cheia de possibilidades. Recentemente, finalizei o Bootcamp WEB Full-Stack do [Responde Aí](https://page.respondeai.com.br/bootcamp) e estou interessado cada vez mais em continuar estudando desenvolvimento WEB e MOBILE com ReactJS, React Native e NodeJS em projetos full-stack que compartilharei aqui.
+Eu me tornei desenvolvedor web, após concluir o ![Bootcamp WEB Full-Stack do Responde Aí](https://e-certificado.com/login/visualizar?c=853636A944A44555865970) com +800h e em 6 meses fiz 21 projetos Front-End e Back-End feitos com as principais tecnologias WEB: HTML5, CSS3, Javascript, ReactJS, NodeJS, SQL, NoSQL, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack e Zoom.
+
+Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full-Stack, porém tenho interesse em Mobile / Design / DevOps / DataScience.
+Projeto de relevância: Plataforma de ensino de programação -> ![Codify](https://codify-milhomem.herokuapp.com/)
 
 ## Tecnologias que estou estudando :books:
 
