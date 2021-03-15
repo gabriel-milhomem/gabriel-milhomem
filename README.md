@@ -12,9 +12,7 @@ Olá! Meu nome é Gabriel, tenho 20 anos e faço Engenharia de Computação pela
 
 Eu me tornei desenvolvedor web, após concluir o [Bootcamp WEB Full-Stack do Responde Aí](https://e-certificado.com/login/visualizar?c=853636A944A44555865970) com +800h e em 6 meses fiz 21 projetos Front-End e Back-End feitos com as principais tecnologias WEB: HTML5, CSS3, Javascript, ReactJS, NodeJS, SQL, NoSQL, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack e Zoom.
 
-Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full-Stack, porém tenho interesse em Mobile / Design / DevOps / DataScience.
-
-Projeto de relevância: Plataforma de ensino de programação -> [Codify](https://codify-milhomem.herokuapp.com/)
+Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full-Stack, porém tenho interesse em Mobile / Design / DevOps.
 
 ## Tecnologias que estou estudando :books:
 
@@ -24,9 +22,7 @@ Projeto de relevância: Plataforma de ensino de programação -> [Codify](https:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 #### Back-End:
@@ -37,17 +33,13 @@ Projeto de relevância: Plataforma de ensino de programação -> [Codify](https:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
 #### Ferramentas:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
