@@ -8,11 +8,10 @@
 
 ## Sobre Mim :wave:
 
-Olá! Meu nome é Gabriel, tenho 20 anos e faço Engenharia de Computação pela Unicamp. Meu objetivo é impactar a vida das pessoas positivamente, por meio de linhas de código.
-
-Eu me tornei desenvolvedor web, após concluir o [Bootcamp WEB Full-Stack do Responde Aí](https://e-certificado.com/login/visualizar?c=853636A944A44555865970) com +800h e em 6 meses fiz 21 projetos Front-End e Back-End feitos com as principais tecnologias WEB: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS, Sequelize. PostgreSQL, Redis, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
-
-Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full-Stack, porém tenho interesse em Mobile / Design / DevOps.
+💻 Desenvolvedor WEB especializado em Front End (React) com mais de 1 ano de experiência profissional.
+🎓 Formado como Desenvolvedor Full Stack pela Driven Education.
+📕 Cursando Bacharelado em Engenharia Software pela UFG.
+🧔 Meu objetivo é tornar ideias promissoras em realidade e impactar positivamente o máximo de pessoas possíveis, por meio de linhas de código.
 
 ## Tecnologias que estou estudando :books:
 
