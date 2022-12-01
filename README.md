@@ -9,8 +9,11 @@
 ## Sobre Mim :wave:
 
 💻 Desenvolvedor WEB especializado em Front End (React) com mais de 1 ano de experiência profissional.
+
 🎓 Formado como Desenvolvedor Full Stack pela Driven Education.
+
 📕 Cursando Bacharelado em Engenharia Software pela UFG.
+
 🧔 Meu objetivo é tornar ideias promissoras em realidade e impactar positivamente o máximo de pessoas possíveis, por meio de linhas de código.
 
 ## Tecnologias que estou estudando :books:
