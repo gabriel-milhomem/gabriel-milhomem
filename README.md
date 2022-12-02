@@ -8,7 +8,7 @@
 
 ## Sobre Mim :wave:
 
-Desenvolvedor de software especializado em front end com mais de 1 ano de experiência profissional na indústria, trabalhando remotamente em start up com uma equipe pequena e ágil, para a construção de produtos digitais web responsivas, interativas, fáceis de usar e ricas em funcionalidades. Estudante ao longo da vida e familiarizado com o desenvolvimento web moderno, uso minhas experiências prévias e novos aprendizados para solucionar problemas e codificar ideias promissoras. Em busca de novas oportunidades para me capacitar e gerar impacto positivamente.
+● Desenvolvedor de software especializado em front end com mais de 1 ano de experiência profissional na indústria, trabalhando remotamente em start up com uma equipe pequena e ágil, para a construção de produtos digitais web responsivas, interativas, fáceis de usar e ricas em funcionalidades. Estudante ao longo da vida e familiarizado com o desenvolvimento web moderno, uso minhas experiências prévias e novos aprendizados para solucionar problemas e codificar ideias promissoras. Em busca de novas oportunidades para me capacitar e gerar impacto positivamente.
 
 ● Linguagens:HTML, CSS, JavaScript, TypeScript. 
 
