@@ -8,15 +8,12 @@
 
 ## Sobre Mim :wave:
 
-💻 Desenvolvedor WEB especializado em Front End (React) com mais de 1 ano de experiência profissional.
+Desenvolvedor de software especializado em front end com mais de 1 ano de experiência profissional na indústria, trabalhando remotamente em start up com uma equipe pequena e ágil, para a construção de produtos digitais web responsivas, interativas, fáceis de usar e ricas em funcionalidades. Estudante ao longo da vida e familiarizado com o desenvolvimento web moderno, uso minhas experiências prévias e novos aprendizados para solucionar problemas e codificar ideias promissoras. Em busca de novas oportunidades para me capacitar e gerar impacto positivamente.
 
-🎓 Formado como Desenvolvedor Full Stack pela Driven Education.
+● Linguagens:HTML, CSS, JavaScript, TypeScript. 
 
-📕 Cursando Bacharelado em Engenharia Software pela UFG.
+● Tecnologias:React, Next.js, Redux, Zustand, Angular, RxJS, ChartJS, jQuery, SASS, Emotion, Material UI, Chakra UI, Jest, Testing Library, Cypress, Webpack, Nx, ESlint. 
 
-🧔 Meu objetivo é tornar ideias promissoras em realidade e impactar positivamente o máximo de pessoas possíveis, por meio de linhas de código.
+● Vivência emtimes que utilizam práticas e metodologias ágeis de desenvolvimento como Scrum, Kanban e XP.
 
-## Estatísticas :rocket:
-
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=gabriel-milhomem&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milhomem&layout=compact" />
+● Conhecimentodo ecossitema back end com Node.js/Python e experiência no consumo de APIs REST e GraphQL
