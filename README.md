@@ -10,7 +10,7 @@
 
 ● Desenvolvedor de software especializado em front end com mais de 1 ano de experiência profissional na indústria, trabalhando remotamente em start up com uma equipe pequena e ágil, para a construção de produtos digitais web responsivos, interativos, fáceis de usar e ricos em funcionalidades. Estudante ao longo da vida e familiarizado com o desenvolvimento web moderno, uso minhas experiências prévias e novos aprendizados para solucionar problemas e codificar ideias promissoras. Em busca de novas oportunidades para me capacitar e gerar impacto positivamente.
 
-● Linguagens: HTML, CSS, JavaScript, TypeScript. 
+● Linguagens: HTML, CSS, JavaScript e TypeScript. 
 
 ● Tecnologias: React, Next.js, Redux, Zustand, Angular, RxJS, ChartJS, jQuery, SASS, Emotion, Material UI, Chakra UI, Jest, Testing Library, Cypress, Webpack, Nx, ESlint. 
 
